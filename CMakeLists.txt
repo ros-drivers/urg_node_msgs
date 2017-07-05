@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.5)
 project(urg_node_msgs)
 
 find_package(ament_cmake REQUIRED)
@@ -14,6 +14,12 @@ set_directory_properties(PROPERTIES COMPILE_OPTIONS "-std=c++11")
 rosidl_generate_interfaces(urg_node_msgs
   "msg/Status.msg"
   DEPENDENCIES builtin_interfaces std_msgs 
+)
+
+# Install mapping rules for the ros1_bridge
+install(
+  FILES mapping_rules.yaml
+  DESTINATION share/${PROJECT_NAME}
 )
 
 ament_package()
