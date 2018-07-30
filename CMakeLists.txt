@@ -6,7 +6,7 @@ find_package(std_msgs REQUIRED)
 find_package(builtin_interfaces REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
-set_directory_properties(PROPERTIES COMPILE_OPTIONS "-std=c++11")
+set_directory_properties(PROPERTIES COMPILE_OPTIONS "-std=c++14")
 
 # Dynamic reconfigure support
 #generate_dynamic_reconfigure_options(cfg/URG.cfg)
