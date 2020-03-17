@@ -2,8 +2,8 @@
 Changelog for package urg_node_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2020-03-17)
+------------------
 * fix package.xml for linter tests (`#3 <https://github.com/ros-drivers/urg_node_msgs/issues/3>`_)
 * cmake cleanup (`#2 <https://github.com/ros-drivers/urg_node_msgs/issues/2>`_)
 * Moving urg_node_msgs repo to ros-drivers
