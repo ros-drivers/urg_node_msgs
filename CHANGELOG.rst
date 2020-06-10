@@ -2,8 +2,8 @@
 Changelog for package urg_node_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2020-06-10)
+------------------
 * add myself as maintainer (`#4 <https://github.com/ros-drivers/urg_node_msgs/issues/4>`_)
 * Contributors: Michael Ferguson
 
