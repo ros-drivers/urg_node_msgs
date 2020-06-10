@@ -2,6 +2,11 @@
 Changelog for package urg_node_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* add myself as maintainer (`#4 <https://github.com/ros-drivers/urg_node_msgs/issues/4>`_)
+* Contributors: Michael Ferguson
+
 1.0.0 (2020-03-17)
 ------------------
 * fix package.xml for linter tests (`#3 <https://github.com/ros-drivers/urg_node_msgs/issues/3>`_)
