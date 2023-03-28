@@ -15,3 +15,5 @@ bool lockout_status
 uint16 distance
 # The reported angle of the stop in deg.
 float32 angle
+# The contamination warning status
+bool contamination_warning
