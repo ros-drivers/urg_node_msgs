@@ -2,8 +2,8 @@
 Changelog for package urg_node_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.0 (2023-06-13)
+------------------
 * add notes on branches
 * Added msg fields for the different warning and safety zones (`#6 <https://github.com/ros-drivers/urg_node_msgs/issues/6>`_)
   Co-authored-by: Paul Auerbach <paul.auerbach@barkhauseninstitut.org>
